@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1 style={{ fontSize: '2.5rem', marginBottom: '1rem' }}>Welcome to React 🚀</h1>
+        <h1 style={{ fontSize: '2.5rem', marginBottom: '1rem' }}>Shaktiman 🚀</h1>
         <p style={{ fontSize: '1.2rem' }}>
           Edit <code>src/App.js</code> and save to reload.
         </p>
